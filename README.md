@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./banner.png" alt="Mehedy Hassan Banner" width="100%" />
+  <img src="./mehedybanner.png" alt="Mehedy Hassan Banner" width="100%" />
 </p>
 
 <br>
