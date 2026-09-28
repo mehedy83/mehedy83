@@ -85,12 +85,7 @@ improving my development skills.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mehedy83&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Mehedy Hassan GitHub Stats"
-  />
-</p>
+
 
 
 <p align="center">
